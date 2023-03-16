@@ -49,5 +49,5 @@ stages:
     params:
     - evaluate
     outs:
-    - reports/metrics.jgson
+    - reports/metrics.json
     - confusion_matrix.png
